@@ -1,0 +1,8 @@
+neo-usb-reset
+config.json
+watchdog-state.json
+watchdog-state.tmp
+*.log
+PAUSE
+__pycache__/
+.DS_Store
